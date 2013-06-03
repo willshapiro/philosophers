@@ -156,7 +156,6 @@ int main () {
             //if all philosophers have been looked at once and there are still >1 fork available, exit loop
             if(choice==o_choice){
                 loop_complete = true;
-                cout<<"loop complete \n";
             }
             
             
